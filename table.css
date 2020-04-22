@@ -1,4 +1,6 @@
-
+*{
+  scroll-behavior: smooth;
+}
 
 table, th, tr{
     /*padding: 5px;
